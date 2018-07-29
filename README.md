@@ -21,7 +21,7 @@
     ```
     npm run-script webdriver-start
     ```
- - Edit file **./config/env.ts**  (set deafultLogin/defaultPassword to imnoo app) 
+ - Edit file **./config/env.ts**  (set **deafultLogin/defaultPassword** to imnoo app) 
  
 
 ### Run tests:
